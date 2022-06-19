@@ -1,6 +1,0 @@
-name:China
-tripId:1234
-date:2025 06 04
-numOfPeople:11
-cost:13345678.0
-location:Tiannamen Square
