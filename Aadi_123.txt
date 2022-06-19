@@ -1,6 +1,0 @@
-name:Aadi
-tripId:123
-date:2022 06 18
-numOfPeople:123
-cost:148476.0
-location:Home
