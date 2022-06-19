@@ -1,0 +1,6 @@
+name:HighschoolReunion
+tripId:1234
+date:2022 11 09
+numOfPeople:10
+cost:2500.0
+location:123 Example Street
