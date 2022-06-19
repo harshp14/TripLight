@@ -1,6 +1,0 @@
-name:Margaritaville Trip
-tripId:1234
-date:2025 06 18
-numOfPeople:19
-cost:2156
-location:260 Victoria Street

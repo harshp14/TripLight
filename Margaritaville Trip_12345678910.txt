@@ -1,6 +1,0 @@
-name:Margaritaville Trip
-tripId:12345678910
-date:2022 07 29
-numOfPeople:13
-cost:2158
-location:Blue Mountain
